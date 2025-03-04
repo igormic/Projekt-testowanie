@@ -1,2 +1,4 @@
 Zmiana w test
-Zmiana w test_2
+Zmiana w test_2First change
+Second change
+Third change
